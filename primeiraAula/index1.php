@@ -7,7 +7,10 @@
 <body>
     <?php
     //Aqui segue seu código em PHP
-        echo "Vou aprender php";
+    #Comentário em linha única
+    /*Comentário em múltiplas linhas*/ 
+
+        echo "Vou aprender php <br>"; //O br deve estar dentro das aspas para ser interpretado como texto.
         echo "Sou um bom aluno";
     ?>
 </body>
