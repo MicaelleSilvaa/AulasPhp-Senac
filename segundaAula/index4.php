@@ -6,8 +6,13 @@
     </head>
 <body>
     <?php
-    
-    
+    $x = 10;
+    $y = 5;
+
+    $x += $y;
+    $x -= $y;
+
+    echo $x;
     
     ?>
 </body>
